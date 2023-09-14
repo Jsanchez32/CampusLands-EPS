@@ -1,0 +1,87 @@
+{
+	"info": {
+		"_postman_id": "7e193abe-b41d-40c0-a99c-c719771bf258",
+		"name": "CampusEPS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28089195",
+		"_collection_link": "https://speeding-satellite-388982.postman.co/workspace/campus~b2a833eb-be71-45b7-9a71-fef28c36354d/collection/28089195-7e193abe-b41d-40c0-a99c-c719771bf258?action=share&source=collection_link&creator=28089195"
+	},
+	"item": [
+		{
+			"name": "EndPoint 1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/api/req1",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"req1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EndPoint 3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/api/req3",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"req3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EndPoint 6",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/api/req6",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"req6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EndPoint 7",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/api/req7",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"req7"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
